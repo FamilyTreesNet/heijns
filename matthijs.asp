@@ -71,7 +71,7 @@ Response.Write vbCrLf & "<!-- PAGE BODY -->" & vbCrLf
 	
 	<A HREF="/core/item/page.aspx?s=21696.0.19.10">Matthijs Heijns</A> (Feb 11, 1891), 
 	his wife Anna E. Kersbergen and son <A HREF="#williamheyns-Sep-11-1912">William Heyns</A> visit Dutch relatives. 
-	 <nobr>Read <A HREF=http://familytrees.net/page.asp?itemid=904>William's Travel Diary</A>.</nobr><br><br>
+	 <nobr>Read <A HREF=http://web.familytrees.net/page.asp?itemid=904>William's Travel Diary</A>.</nobr><br><br>
 	 
 </TD></TR>
 <TR><TD valign=top align=right width=303>
