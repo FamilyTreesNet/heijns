@@ -54,7 +54,7 @@ Response.Write vbCrLf & "<!-- PAGE BODY -->" & vbCrLf
      <B>Children:</B><br>
      Belia (b. Moerkapelle Nov 17, 1888, d. Sept. 12 1960) - VerStoep<br>
      <A HREF="#elisabeth1889">Elisabeth</A> (b. Moerkapelle Dec 12, 1889, d. Jan 27, 1921) - Ramp<br>
-     <A HREF="/core/item/page.aspx?s=21696.0.19.10">Matthijs</A> (b. Moerkapelle Feb 11, 1891, d. March 5, 1951) - Kersbergen<br>
+     <A HREF="/core/info/page.aspx?s=21696.0.19.10">Matthijs</A> (b. Moerkapelle Feb 11, 1891, d. March 5, 1951) - Kersbergen<br>
      Neeltje (b. Moerkapelle Sept 24, 1894, d. July 31, 1994) - Koster<br>
      Johanna (b. Moerkapelle Mar 29, 1899, d. Aug 21, 1971) - Cornelius VanderWilk<br>
      <A HREF="jan.htm">Jan</A> (John) (b. Waddinxveen July 30, 1902) - VanderWaal<br>
@@ -69,7 +69,7 @@ Response.Write vbCrLf & "<!-- PAGE BODY -->" & vbCrLf
 
 <B>The Children of Willem and Rijna Heijns at North Sea Beach in the Netherlands (1929)</B><br><br>
 	
-	<A HREF="/core/item/page.aspx?s=21696.0.19.10">Matthijs Heijns</A> (Feb 11, 1891), 
+	<A HREF="/core/info/page.aspx?s=21696.0.19.10">Matthijs Heijns</A> (Feb 11, 1891), 
 	his wife Anna E. Kersbergen and son <A HREF="#williamheyns-Sep-11-1912">William Heyns</A> visit Dutch relatives. 
 	 <nobr>Read <A HREF=http://web.familytrees.net/page.asp?itemid=904>William's Travel Diary</A>.</nobr><br><br>
 	 
